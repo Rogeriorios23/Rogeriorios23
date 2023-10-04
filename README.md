@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello brothers 👋👋
+<br>
+<br>
+<p>- My name is Rogerio Rios 😄 </p>
+<p>- I'm 24 years old ⚡</p>
+- I'm currently working as a freelancer, studying JavaScript and React technologies 🔭
+<br>
+<br>
 
-<!--
-**Rogeriorios23/Rogeriorios23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Rogerio Rios](https://github-readme-stats.vercel.app/api?username=Rogeriorios23&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorios23&hide_progress=true)
+<br>
+<br>
+<p>-Follow me on social media</p> 
+:point_down:
+
+https://www.linkedin.com/in/rogerio-rios-de-freitas-0038a1217/
+<br>
+https://www.facebook.com/rogerio.riosfreitas
+<br>
+https://www.instagram.com/rooger_rios/?hl=en-gb
+
+
+
+
